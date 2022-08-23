@@ -41,7 +41,7 @@ Some basic Git commands are:
 
 ```
 $ git clone https://github.com/wonderTechi/e-commerce.git
-$ cd project
+$ cd e-commerce
 $ npm install
 ```
 
